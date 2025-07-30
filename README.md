@@ -6,8 +6,7 @@ Cardiovascular diseases (CVDs) are one of the leading causes of mortality worldw
 Features  
 - **Time-Series Analysis**: Processes wearable device data such as heart rate, blood pressure, and activity levels.  
 - **Machine Learning Models**: Implements supervised and unsupervised learning for early-stage CVD prediction.  
-- **Deep Learning (Optional)**: Uses LSTM/GRU for sequential pattern recognition.  
-- **Explainability**: Provides insights into model decisions using SHAP/LIME.  
+- **Deep Learning (Optional)**: Uses LSTM/GRU for sequential pattern recognition.    
 - **Scalability**: Can be integrated with real-time health monitoring systems.  
 
 Dataset  
